@@ -1,4 +1,5 @@
 /node_modules
+/client/node_modules
 web_work.code-workspace
 .vscdode
 
