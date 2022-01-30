@@ -1,0 +1,3 @@
+- Clone the repo 
+- Run npm install in root folder and client folder
+- Run the command npm run dev to start the server
